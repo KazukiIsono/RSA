@@ -31,6 +31,7 @@
 インストール：
 ```bash
 pip install sympy
+```
 
 ---
 
