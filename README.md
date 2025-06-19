@@ -49,7 +49,7 @@ pip install sympy
 ## 🔤 対応文字セット
 
 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!?#$%&"'\\+*/.（スペース含む）
-上記の文字のみを使ったメッセージに対応しています。
+- 上記の文字のみを使ったメッセージに対応しています。
 
 ---
 
